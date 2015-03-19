@@ -1,0 +1,65 @@
+{
+  "name": "arcgis-rest-client",
+  "version": "0.0.2",
+  "description": "ArcGIS Server REST API client module for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burmisov/arcgis-rest-client"
+  },
+  "keywords": [
+    "arcgis",
+    "server",
+    "rest",
+    "api",
+    "client"
+  ],
+  "author": {
+    "name": "Sergey Burmisov",
+    "url": "http://github.com/burmisov"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burmisov/arcgis-rest-client/issues"
+  },
+  "homepage": "https://github.com/burmisov/arcgis-rest-client",
+  "engines": {
+    "node": ">=0.10.3 <0.12"
+  },
+  "dependencies": {
+    "debug": "^1.0.4",
+    "lodash": "^2.4.1",
+    "request": "^2.40.0",
+    "superagent": "^0.18.2",
+    "underscore": "^1.6.0",
+    "urlencode": "^0.2.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jasmine-node": "^0.2.1"
+  },
+  "_id": "arcgis-rest-client@0.0.2",
+  "dist": {
+    "shasum": "76f7169faf83455230f702c73ee7b0d196874487",
+    "tarball": "http://registry.npmjs.org/arcgis-rest-client/-/arcgis-rest-client-0.0.2.tgz"
+  },
+  "_from": "arcgis-rest-client@0.0.2",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "burmisov",
+    "email": "burmisov@informatica.ru"
+  },
+  "maintainers": [
+    {
+      "name": "burmisov",
+      "email": "burmisov@informatica.ru"
+    }
+  ],
+  "directories": {},
+  "_shasum": "76f7169faf83455230f702c73ee7b0d196874487",
+  "_resolved": "https://registry.npmjs.org/arcgis-rest-client/-/arcgis-rest-client-0.0.2.tgz"
+}
